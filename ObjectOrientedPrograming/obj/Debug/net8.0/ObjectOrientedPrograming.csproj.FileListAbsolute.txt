@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\tobeto\ObjectOrientedPrograming\ObjectOrientedPrograming\obj\Debug\net8.0\ObjectOrientedPrograming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\tobeto\ObjectOrientedPrograming\ObjectOrientedPrograming\obj\Debug\net8.0\ObjectOrientedPrograming.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\tobeto\ObjectOrientedPrograming\ObjectOrientedPrograming\obj\Debug\net8.0\ObjectOrientedPrograming.AssemblyInfo.cs
+C:\Users\user\Desktop\tobeto\ObjectOrientedPrograming\ObjectOrientedPrograming\obj\Debug\net8.0\ObjectOrientedPrograming.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\tobeto\ObjectOrientedPrograming\ObjectOrientedPrograming\bin\Debug\net8.0\ObjectOrientedPrograming.exe
+C:\Users\user\Desktop\tobeto\ObjectOrientedPrograming\ObjectOrientedPrograming\bin\Debug\net8.0\ObjectOrientedPrograming.deps.json
+C:\Users\user\Desktop\tobeto\ObjectOrientedPrograming\ObjectOrientedPrograming\bin\Debug\net8.0\ObjectOrientedPrograming.runtimeconfig.json
+C:\Users\user\Desktop\tobeto\ObjectOrientedPrograming\ObjectOrientedPrograming\bin\Debug\net8.0\ObjectOrientedPrograming.dll
+C:\Users\user\Desktop\tobeto\ObjectOrientedPrograming\ObjectOrientedPrograming\bin\Debug\net8.0\ObjectOrientedPrograming.pdb
+C:\Users\user\Desktop\tobeto\ObjectOrientedPrograming\ObjectOrientedPrograming\obj\Debug\net8.0\ObjectOrientedPrograming.dll
+C:\Users\user\Desktop\tobeto\ObjectOrientedPrograming\ObjectOrientedPrograming\obj\Debug\net8.0\refint\ObjectOrientedPrograming.dll
+C:\Users\user\Desktop\tobeto\ObjectOrientedPrograming\ObjectOrientedPrograming\obj\Debug\net8.0\ObjectOrientedPrograming.pdb
+C:\Users\user\Desktop\tobeto\ObjectOrientedPrograming\ObjectOrientedPrograming\obj\Debug\net8.0\ObjectOrientedPrograming.genruntimeconfig.cache
+C:\Users\user\Desktop\tobeto\ObjectOrientedPrograming\ObjectOrientedPrograming\obj\Debug\net8.0\ref\ObjectOrientedPrograming.dll
